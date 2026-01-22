@@ -23,4 +23,4 @@ Write your own version of how we can explore these in the first segment, using *
 
 Add your notebook to the `submissions/` folder using the following naming format:
 
-<github-username>__segment_1_intro.ipynb
+github-username__segment_1_intro.ipynb
